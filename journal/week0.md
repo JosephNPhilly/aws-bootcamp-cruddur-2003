@@ -1,5 +1,6 @@
 # Week 0 — Billing and Architecture
-update gipod.yml file
+update gipod.yml file:
+
   tasks: 
   - name: aws-cli
     env: 
