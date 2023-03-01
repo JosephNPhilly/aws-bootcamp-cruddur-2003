@@ -7,4 +7,5 @@
 
 - howto update journal [andrew guide](https://www.youtube.com/watch?v=mWaSBRJhUFM&list=PLBfufR7vyJJ7k25byhRXJldB5AiwgNnWv&index=19) and [markdown](https://www.markdownguide.org/basic-syntax/)
 
-- 
+- biling and alert created ![Billing](assets/SNSAlertBilling.png) ![Alert](assets/AlertBillingCreated.png)
+- Lucid Chart
