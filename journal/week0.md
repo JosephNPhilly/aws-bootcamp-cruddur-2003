@@ -1,5 +1,5 @@
 # Week 0 — Billing and Architecture
-update gipod.yml file:
+- update gipod.yml file: following this link [link install aws cli linux](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
 
   tasks: 
   - name: aws-cli
