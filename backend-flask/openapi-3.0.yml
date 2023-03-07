@@ -159,10 +159,10 @@ paths:
             description: Return an array of activities
             content:
               application/json:
-              schema:
-                type: array
-                items:
-                  $ref: '#/components/schemas/Activity'  
+                schema:
+                  type: array
+                  items:
+                    $ref: '#/components/schemas/Activity'  
 
 
 components:
